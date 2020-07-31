@@ -56,7 +56,7 @@ main{
 }
 #heading{
     display: block;
-    text-align: left;
+    text-align: center;
     font-size: small;
     color: rgb(231, 21, 14);
 }
@@ -70,7 +70,12 @@ button{
     color: white;
     border-color: blue;
 }
-
+table{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 
