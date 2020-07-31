@@ -1,0 +1,77 @@
+div{
+    display: flex;
+    justify-content: flex-end;
+}
+div>a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: blue;
+    font-size: 15px;
+}
+#centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    width: 500px;
+}
+img{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+}
+input{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4%;
+    margin-bottom: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 0.5px solid black;
+}
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    padding: 2px;
+    border-radius: 4px;
+}
+#header{
+    background-color: whitesmoke;
+}
+#header img{
+    width: 100px;
+    
+    margin-left: 10px;
+    margin-top: 20px;
+}
+main{
+    margin:20px
+}
+#heading{
+    display: block;
+    text-align: left;
+    font-size: small;
+    color: rgb(231, 21, 14);
+}
+td > input{
+    width: 200px;
+    margin-top: 10px;
+    padding: 4px;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+
+
+
+
+
